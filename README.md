@@ -2,7 +2,7 @@
 
 A repository for learning LangChain by building a generative ai application.
 
-This is a web applicaiton crawling Linkedi data about a person an customize an ice breaker with them.
+This is a web applicaiton crawling Linkedin data about a person an customize an ice breaker with them.
 
 ## Environment Variables
 
